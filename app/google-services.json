@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1059350108995",
+    "firebase_url": "https://direct-axiom-134123.firebaseio.com",
+    "project_id": "direct-axiom-134123",
+    "storage_bucket": "direct-axiom-134123.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059350108995:android:6d6b4b9d117c4766",
+        "android_client_info": {
+          "package_name": "com.example.kayo.parkinfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059350108995-v20cbgbtugbpdhe6uvigc3t2ono1e877.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5o95_0vPc81F7BV9Jo8xaFV-K17BZ3nI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
